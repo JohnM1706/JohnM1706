@@ -5,5 +5,4 @@
         src="https://media.giphy.com/media/ikONXvk02wQmY/giphy.gif"
         alt="anonimmus"
         />
-        
-    </div>
+</div>
