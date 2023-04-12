@@ -7,10 +7,5 @@
             <li>Node.js</li>
             <li>React</li>
           </ol>
-          <img
-            src="https://media.giphy.com/media/ikONXvk02wQmY/giphy.gif"
-            alt="anonimmus"
-            align="right"
-          />
         </div>
       </div>
