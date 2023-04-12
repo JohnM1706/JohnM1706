@@ -1,6 +1,6 @@
  <div id="cabecera" align="center">
         <h1>Hi👋, I'm John Fredy</h1>
- <div id="cuerpo" > 
+ <div id="cuerpo" column="2"> 
         <h3>soy un desarrollador apasionado por la tecnología. trabajando en proyectos de desarrollo de software utilizando diferentes lenguajes de programación             y tecnologías. Me encanta aprender cosas nuevas y aplicarlas en mis proyectos.</h3>
          <img
             src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
