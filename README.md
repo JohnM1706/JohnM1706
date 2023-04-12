@@ -27,9 +27,8 @@
             title="HTML5"
             alt="PC" 
             width="40"
-            height="40"
-            
-          />
+            height="40"            
+   />
  </div>
  
 </div>
