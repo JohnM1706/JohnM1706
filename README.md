@@ -29,6 +29,27 @@
             width="40"
             height="40"            
    />
+  <img
+            src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
+            title="HTML5"
+            alt="PC" 
+            width="40"
+            height="40"            
+   />
+  <img
+            src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+            title="HTML5"
+            alt="PC" 
+            width="40"
+            height="40"            
+   />
+  <img
+            src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+            title="HTML5"
+            alt="PC" 
+            width="40"
+            height="40"            
+   />
  </div>
  
 </div>
