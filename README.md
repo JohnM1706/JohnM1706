@@ -5,7 +5,8 @@
         </h3>
          <img
             src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-            alt="PC"            
+            alt="PC" 
+            align="right"
           />
     </div>   
           <h3 align="left">Actualmente estoy aprendiendo:</h3>
